@@ -1,0 +1,130 @@
+{
+    "machines": [
+        {
+            "id": 1,
+            "title": "labtop",
+            "img": "./imgs/products/labtop.webp",
+            "price": 300,
+            "quantity": 1,
+            "description":"Lorem ipsum dolor sit amet consectetur adipisicing elit"
+        },
+        {
+            "id": 2,
+            "title": "smart tv",
+            "img": "./imgs/products/tv.webp",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+            "price": 200,
+            "quantity": 1
+        },
+        {
+            "id": 3,
+            "title": "camera",
+            "img": "./imgs/products/camera.webp",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+            "price": 100,
+            "quantity": 1
+        },
+        {
+            "id": 4,
+            "title": "headphone",
+            "img": "./imgs/products/headphone.webp",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+            "price": 144,
+            "quantity": 1
+        },
+        {
+            "id": 5,
+            "title": "watch",
+            "img": "./imgs/products/watch.webp",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+            "price":50,
+            "quantity": 1
+        },
+        {
+            "id": 6,
+            "title": "drone",
+            "img": "./imgs/products/drone.webp",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+            "price":500,
+            "quantity": 1
+        },
+        {
+            "id": 7,
+            "title": "fridge",
+            "img": "./imgs/products/tab-5.webp",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+            "price":240,
+            "quantity": 1
+        },
+        {
+            "id": 8,
+            "title": "phone",
+            "img": "./imgs/products/phone.webp",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+            "price":140,
+            "quantity": 1
+        }
+    ],
+
+    "products": [
+        {
+            "id": 1,
+            "title": "Watches",
+            "description": "Xiaomi Mi Band 5",
+            "price": 199.00,
+            "img": "./imgs/products/product-1.webp"
+        },
+        {
+            "id": 2,
+            "title": "Speaker",
+            "description": "Big Power Sound Speaker",
+            "price": 300.00,
+            "discount": 275.00,
+            "img": "./imgs/products/product-2.webp"
+        },
+        {
+            "id": 3,
+            "title": "Camera",
+            "description": "WiFi Security Camera",
+            "price": 399.00,
+            "img": "./imgs/products/product-3.webp"
+        },
+        {
+            "id": 4,
+            "title": "Phones",
+            "description": "iphone 6x plus",
+            "price": 400.00,
+            "img": "./imgs/products/product-4.webp"
+        },
+        {
+            "id": 5,
+            "title": "Headphones",
+            "description": "Wireless Headphones",
+            "price": 350.00,
+            "img": "./imgs/products/product-5.webp"
+        },
+        {
+            "id": 6,
+            "title": "Speaker",
+            "description": "Mini Bluetooth Speaker",
+            "price": 70.00,
+            "img": "./imgs/products/product-6.webp"
+        },
+
+        {
+            "id": 7,
+            "title": "Headphones",
+            "description": "PX7 Wireless Headphones",
+            "price": 200.00,
+            "discount": 100.00,
+            "img": "./imgs/products/product-7.webp"
+        },
+        {
+            "id": 8,
+            "title": "Laptop",
+            "description": "Apple MacBook Air",
+            "price": 899.00,
+            "img": "./imgs/products/product-8.webp"
+        }
+    ]
+}
