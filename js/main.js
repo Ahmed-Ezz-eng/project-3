@@ -1,6 +1,6 @@
 // website =>  https://www.thetahmid.com/themes/xemart-v1.0/
 
-let api = "../data.json";
+let api = "https://ahmed-ezz-eng.github.io/data.json";
 
 let machineContent = document.querySelector(".machines .row");
 let productsContent = document.querySelector(".products .row");
