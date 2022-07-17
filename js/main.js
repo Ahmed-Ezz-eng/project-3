@@ -1,6 +1,6 @@
 // website =>  https://www.thetahmid.com/themes/xemart-v1.0/
 
-let api = "https://ahmed-ezz-eng.github.io/data.json";
+let api = "https://mocki.io/v1/b1dbbab0-3ff4-4ce6-9162-5602a5fa5895";
 
 let machineContent = document.querySelector(".machines .row");
 let productsContent = document.querySelector(".products .row");
