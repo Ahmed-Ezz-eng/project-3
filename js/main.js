@@ -15,7 +15,7 @@ const getData = async(api) => {
         loading = "";
         drawData(machines)
     } catch(error) {
-        console.log("error");
+        console.log("fetch error : ", error.message);
     }
 }
 
@@ -47,7 +47,7 @@ const fetchProducts = async(api) => {
         const {products} = await response.json();
         drawNewProducts(products);
     } catch (error) {
-        console.log(error);
+        console.log("fetch error : ", error.message);
     }
 }
 
